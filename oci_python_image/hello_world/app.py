@@ -1,4 +1,5 @@
 import cowsay
+import numpy
 
 class Cow:
     def __init__(self, name):
